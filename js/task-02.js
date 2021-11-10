@@ -18,6 +18,3 @@ const createitemElement = ingredients.map(el => {
 })
 
 galleryListEl.append(...createitemElement);
-
-
-
